@@ -1,0 +1,1058 @@
+{
+  "restaurants": [
+    {
+      "id": 1,
+      "name": "Pasta Palace",
+      "neighbourhood": "Downtown",
+      "photographs": "https://media-assets.swiggy.com/swiggy/image/upload/f_auto,q_auto,fl_lossy/e174b73e0cd3385c5760f44bb3289c6e",
+      "address": "123 Main St, Downtown",
+      "latlng": {
+        "lat": 40.741895,
+        "lng": -73.989308
+      },
+      "cuisine_type": "Italian",
+      "operating_hours": {
+        "Monday": "11:00 am - 10:00 pm",
+        "Tuesday": "11:00 am - 10:00 pm",
+        "Wednesday": "11:00 am - 10:00 pm",
+        "Thursday": "11:00 am - 10:00 pm",
+        "Friday": "11:00 am - 11:00 pm",
+        "Saturday": "11:00 am - 11:00 pm",
+        "Sunday": "12:00 pm - 9:00 pm"
+      },
+      "reviews": [
+        {
+          "name": "Alice Johnson",
+          "date": "2023-07-01",
+          "rating": 5,
+          "comments": "Fantastic food and excellent service!"
+        },
+        {
+          "name": "Bob Smith",
+          "date": "2023-07-05",
+          "rating": 4,
+          "comments": "Great place for pasta lovers. Highly recommended."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Sushi World",
+      "neighbourhood": "Uptown",
+      "photographs": "https://img.freepik.com/premium-photo/sushi-food-photo-world-class-photography-top-lighting-ray-tracing-full-frame-photography-best-q_919910-1120.jpg",
+      "address": "456 Elm St, Uptown",
+      "latlng": {
+        "lat": 40.754932,
+        "lng": -73.984016
+      },
+      "cuisine_type": "Japanese",
+      "operating_hours": {
+        "Monday": "11:00 am - 9:00 pm",
+        "Tuesday": "11:00 am - 9:00 pm",
+        "Wednesday": "11:00 am - 9:00 pm",
+        "Thursday": "11:00 am - 9:00 pm",
+        "Friday": "11:00 am - 10:00 pm",
+        "Saturday": "11:00 am - 10:00 pm",
+        "Sunday": "12:00 pm - 8:00 pm"
+      },
+      "reviews": [
+        {
+          "name": "Charlie Lee",
+          "date": "2023-06-21",
+          "rating": 5,
+          "comments": "Best sushi in town!"
+        },
+        {
+          "name": "Dana White",
+          "date": "2023-06-25",
+          "rating": 4,
+          "comments": "Fresh and delicious sushi. Will visit again."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Taco Town",
+      "neighbourhood": "West End",
+      "photographs": "https://scontent.cdninstagram.com/v/t39.30808-6/448337806_17986705424675404_777714414071184139_n.jpg?stp=dst-jpg_e15&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xNDQweDk2MC5zZHIuZjMwODA4In0&_nc_ht=scontent.cdninstagram.com&_nc_cat=104&_nc_ohc=_N0Wsa4kq_8Q7kNvgFKQ1Eu&edm=APs17CUAAAAA&ccb=7-5&ig_cache_key=MzM4OTU1Mjg3Mjk2NzcyODMzNQ%3D%3D.2-ccb7-5&oh=00_AYCbdcTuSdtAX6_-QizK0hWjzMsLeWXhfNqFQ22PTIJaUQ&oe=66955AD0&_nc_sid=10d13b",
+      "address": "789 Maple Ave, West End",
+      "latlng": {
+        "lat": 40.734326,
+        "lng": -73.990688
+      },
+      "cuisine_type": "Mexican",
+      "operating_hours": {
+        "Monday": "10:00 am - 11:00 pm",
+        "Tuesday": "10:00 am - 11:00 pm",
+        "Wednesday": "10:00 am - 11:00 pm",
+        "Thursday": "10:00 am - 11:00 pm",
+        "Friday": "10:00 am - 12:00 am",
+        "Saturday": "10:00 am - 12:00 am",
+        "Sunday": "10:00 am - 10:00 pm"
+      },
+      "reviews": [
+        {
+          "name": "Emily Brown",
+          "date": "2023-08-12",
+          "rating": 4,
+          "comments": "Great tacos and atmosphere."
+        },
+        {
+          "name": "Frank Green",
+          "date": "2023-08-15",
+          "rating": 5,
+          "comments": "Best Mexican food in the city!"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Curry House",
+      "neighbourhood": "East Side",
+      "photographs": "https://thecurryhouse.com/wp-content/uploads/2022/12/indianfood.jpg",
+      "address": "123 Oak St, East Side",
+      "latlng": {
+        "lat": 40.730610,
+        "lng": -73.935242
+      },
+      "cuisine_type": "Indian",
+      "operating_hours": {
+        "Monday": "11:30 am - 10:00 pm",
+        "Tuesday": "11:30 am - 10:00 pm",
+        "Wednesday": "11:30 am - 10:00 pm",
+        "Thursday": "11:30 am - 10:00 pm",
+        "Friday": "11:30 am - 11:00 pm",
+        "Saturday": "11:30 am - 11:00 pm",
+        "Sunday": "12:00 pm - 9:00 pm"
+      },
+      "reviews": [
+        {
+          "name": "George Wilson",
+          "date": "2023-07-20",
+          "rating": 4,
+          "comments": "Authentic Indian flavors, loved it!"
+        },
+        {
+          "name": "Hannah Scott",
+          "date": "2023-07-22",
+          "rating": 5,
+          "comments": "Best curry in town, highly recommended."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Burger Haven",
+      "neighbourhood": "Midtown",
+      "photographs": "https://images.deliveryhero.io/image/fd-th/LH/rq7i-listing.jpg",
+      "address": "789 Pine St, Midtown",
+      "latlng": {
+        "lat": 40.763934,
+        "lng": -73.972404
+      },
+      "cuisine_type": "American",
+      "operating_hours": {
+        "Monday": "11:00 am - 11:00 pm",
+        "Tuesday": "11:00 am - 11:00 pm",
+        "Wednesday": "11:00 am - 11:00 pm",
+        "Thursday": "11:00 am - 11:00 pm",
+        "Friday": "11:00 am - 12:00 am",
+        "Saturday": "11:00 am - 12:00 am",
+        "Sunday": "12:00 pm - 10:00 pm"
+      },
+      "reviews": [
+        {
+          "name": "Evan Garcia",
+          "date": "2023-05-10",
+          "rating": 4,
+          "comments": "Great burgers and friendly staff."
+        },
+        {
+          "name": "Fiona Davis",
+          "date": "2023-05-15",
+          "rating": 5,
+          "comments": "Amazing place for burgers! A must-visit."
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Pizza Planet",
+      "neighbourhood": "Old Town",
+      "photographs": "https://www.disneytouristblog.com/wp-content/uploads/2012/03/1106300007.jpg",
+      "address": "101 Center St, Old Town",
+      "latlng": {
+        "lat": 40.729517,
+        "lng": -73.998672
+      },
+      "cuisine_type": "Italian",
+      "operating_hours": {
+        "Monday": "10:00 am - 11:00 pm",
+        "Tuesday": "10:00 am - 11:00 pm",
+        "Wednesday": "10:00 am - 11:00 pm",
+        "Thursday": "10:00 am - 11:00 pm",
+        "Friday": "10:00 am - 12:00 am",
+        "Saturday": "10:00 am - 12:00 am",
+        "Sunday": "10:00 am - 10:00 pm"
+      },
+      "reviews": [
+        {
+          "name": "Gina Brown",
+          "date": "2023-04-15",
+          "rating": 5,
+          "comments": "Delicious pizza and quick service."
+        },
+        {
+          "name": "Harry Black",
+          "date": "2023-04-20",
+          "rating": 4,
+          "comments": "Great place for a quick bite."
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Seafood Shack",
+      "neighbourhood": "Harbor",
+      "photographs": "https://images.squarespace-cdn.com/content/v1/6299c4c49e613d2dbed9ebfd/74485d1d-462a-429f-8b24-b0be9277cd97/WhatsApp+Image+2024-04-06+at+13.51.11_fe6936c3.jpg",
+      "address": "202 Ocean Dr, Harbor",
+      "latlng": {
+        "lat": 40.712775,
+        "lng": -74.005973
+      },
+      "cuisine_type": "Seafood",
+      "operating_hours": {
+        "Monday": "11:00 am - 10:00 pm",
+        "Tuesday": "11:00 am - 10:00 pm",
+        "Wednesday": "11:00 am - 10:00 pm",
+        "Thursday": "11:00 am - 10:00 pm",
+        "Friday": "11:00 am - 11:00 pm",
+        "Saturday": "11:00 am - 11:00 pm",
+        "Sunday": "12:00 pm - 9:00 pm"
+      },
+      "reviews": [
+        {
+          "name": "Isaac White",
+          "date": "2023-05-11",
+          "rating": 5,
+          "comments": "Best seafood in the area!"
+        },
+        {
+          "name": "Jack Green",
+          "date": "2023-05-15",
+          "rating": 4,
+          "comments": "Fresh seafood and great service."
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Steakhouse Grill",
+      "neighbourhood": "City Center",
+      "photographs": "https://storage.googleapis.com/mon-resto-halal/restaurants/a36f5494-5ac8-428d-a763-1cb169937a24/thumb@1024_a37731e3-28f2-42fd-9612-7ab610e6d1d4.jpg",
+      "address": "303 Market St, City Center",
+      "latlng": {
+        "lat": 40.730599,
+        "lng": -73.986581
+      },
+      "cuisine_type": "American",
+      "operating_hours": {
+        "Monday": "12:00 pm - 10:00 pm",
+        "Tuesday": "12:00 pm - 10:00 pm",
+        "Wednesday": "12:00 pm - 10:00 pm",
+        "Thursday": "12:00 pm - 10:00 pm",
+        "Friday": "12:00 pm - 11:00 pm",
+        "Saturday": "12:00 pm - 11:00 pm",
+        "Sunday": "12:00 pm - 9:00 pm"
+      },
+      "reviews": [
+        {
+          "name": "Kelly Blue",
+          "date": "2023-06-10",
+          "rating": 5,
+          "comments": "Amazing steaks and cozy atmosphere."
+        },
+        {
+          "name": "Liam Brown",
+          "date": "2023-06-15",
+          "rating": 4,
+          "comments": "Great food, but a bit pricey."
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Vegan Delight",
+      "neighbourhood": "Greenwich",
+      "photographs": "https://img.freepik.com/premium-photo/vegan-delight-its-best-dessert-artistry_974629-3266.jpg",
+      "address": "404 Veggie Ln, Greenwich",
+      "latlng": {
+        "lat": 40.729659,
+        "lng": -73.983089
+      },
+      "cuisine_type": "Vegan",
+      "operating_hours": {
+        "Monday": "10:00 am - 8:00 pm",
+        "Tuesday": "10:00 am - 8:00 pm",
+        "Wednesday": "10:00 am - 8:00 pm",
+        "Thursday": "10:00 am - 8:00 pm",
+        "Friday": "10:00 am - 9:00 pm",
+        "Saturday": "10:00 am - 9:00 pm",
+        "Sunday": "10:00 am - 7:00 pm"
+      },
+      "reviews": [
+        {
+          "name": "Megan Rose",
+          "date": "2023-06-01",
+          "rating": 4,
+          "comments": "Healthy and delicious vegan options."
+        },
+        {
+          "name": "Nathan Gray",
+          "date": "2023-06-05",
+          "rating": 5,
+          "comments": "Best vegan restaurant in town!"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "name": "BBQ Barn",
+      "neighbourhood": "Suburbia",
+      "photographs": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/06/83/c6/97/bbq-barn.jpg?w=1100&h=-1&s=1",
+      "address": "505 Hickory St, Suburbia",
+      "latlng": {
+        "lat": 40.756398,
+        "lng": -73.993408
+      },
+      "cuisine_type": "BBQ",
+      "operating_hours": {
+        "Monday": "12:00 pm - 10:00 pm",
+        "Tuesday": "12:00 pm - 10:00 pm",
+        "Wednesday": "12:00 pm - 10:00 pm",
+        "Thursday": "12:00 pm - 10:00 pm",
+        "Friday": "12:00 pm - 11:00 pm",
+        "Saturday": "12:00 pm - 11:00 pm",
+        "Sunday": "12:00 pm - 9:00 pm"
+      },
+      "reviews": [
+        {
+          "name": "Olivia Harris",
+          "date": "2023-05-20",
+          "rating": 5,
+          "comments": "Great BBQ and friendly staff."
+        },
+        {
+          "name": "Paul Nelson",
+          "date": "2023-05-25",
+          "rating": 4,
+          "comments": "Delicious BBQ, but a bit crowded."
+        }
+      ]
+    },
+  
+    {
+      "id": 11,
+      "name": "Ramen House",
+      "neighbourhood": "Little Tokyo",
+      "photographs": "https://img.cdn4dd.com/cdn-cgi/image/fit=cover,width=600,height=400,format=auto,quality=80/https://doordash-static.s3.amazonaws.com/media/store/header/26b29614-7b51-44ee-ba8d-d931fa9b5a2c.jpg",
+      "address": "606 Noodle St, Little Tokyo",
+      "latlng": {
+        "lat": 40.715323,
+        "lng": -73.993745
+      },
+      "cuisine_type": "Japanese",
+      "operating_hours": {
+        "Monday": "11:00 am - 10:00 pm",
+        "Tuesday": "11:00 am - 10:00 pm",
+        "Wednesday": "11:00 am - 10:00 pm",
+        "Thursday": "11:00 am - 10:00 pm",
+        "Friday": "11:00 am - 11:00 pm",
+        "Saturday": "11:00 am - 11:00 pm",
+        "Sunday": "12:00 pm - 9:00 pm"
+      },
+      "reviews": [
+        {
+          "name": "Quincy Adams",
+          "date": "2023-07-01",
+          "rating": 5,
+          "comments": "Best ramen I've ever had!"
+        },
+        {
+          "name": "Rachel Stevens",
+          "date": "2023-07-03",
+          "rating": 4,
+          "comments": "Great ramen but a bit pricey."
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Thai Garden",
+      "neighbourhood": "West Village",
+      "photographs": "https://www.visitgreenwich.org.uk/imageresizer/?image=%2Fdmsimgs%2FThe_Thai_Garden_Cafe_-_Food_image_1342663219.jpg&action=ProductDetailProFullWidth",
+      "address": "707 Spice Rd, West Village",
+      "latlng": {
+        "lat": 40.734926,
+        "lng": -74.002041
+      },
+      "cuisine_type": "Thai",
+      "operating_hours": {
+        "Monday": "11:30 am - 9:30 pm",
+        "Tuesday": "11:30 am - 9:30 pm",
+        "Wednesday": "11:30 am - 9:30 pm",
+        "Thursday": "11:30 am - 9:30 pm",
+        "Friday": "11:30 am - 10:30 pm",
+        "Saturday": "11:30 am - 10:30 pm",
+        "Sunday": "12:00 pm - 9:00 pm"
+      },
+      "reviews": [
+        {
+          "name": "Sam King",
+          "date": "2023-07-10",
+          "rating": 5,
+          "comments": "Authentic Thai flavors, highly recommend!"
+        },
+        {
+          "name": "Tina Miller",
+          "date": "2023-07-12",
+          "rating": 4,
+          "comments": "Good food but the service was slow."
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Bakery Bliss",
+      "neighbourhood": "Old Town",
+      "photographs": "https://b.zmtcdn.com/data/pictures/2/10792/5d5e9b29671d1120a55a75e6cce53aa8.jpg",
+      "address": "808 Baker St, Old Town",
+      "latlng": {
+        "lat": 40.729517,
+        "lng": -73.998672
+      },
+      "cuisine_type": "Bakery",
+      "operating_hours": {
+        "Monday": "7:00 am - 7:00 pm",
+        "Tuesday": "7:00 am - 7:00 pm",
+        "Wednesday": "7:00 am - 7:00 pm",
+        "Thursday": "7:00 am - 7:00 pm",
+        "Friday": "7:00 am - 8:00 pm",
+        "Saturday": "7:00 am - 8:00 pm",
+        "Sunday": "8:00 am - 6:00 pm"
+      },
+      "reviews": [
+        {
+          "name": "Uma Patel",
+          "date": "2023-06-15",
+          "rating": 5,
+          "comments": "Amazing pastries and friendly staff."
+        },
+        {
+          "name": "Victor Hugo",
+          "date": "2023-06-18",
+          "rating": 4,
+          "comments": "Great bakery, but a bit crowded."
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "name": "Dim Sum Delights",
+      "neighbourhood": "Chinatown",
+      "photographs": "https://vitalentum.net/upload/016/u1626/d/f/exquisite-dim-sum-delights-a-visual-feast-on-a-wooden-table-photo-photos-big.webp",
+      "address": "909 Dim Sum Ln, Chinatown",
+      "latlng": {
+        "lat": 40.717556,
+        "lng": -73.997495
+      },
+      "cuisine_type": "Chinese",
+      "operating_hours": {
+        "Monday": "10:00 am - 10:00 pm",
+        "Tuesday": "10:00 am - 10:00 pm",
+        "Wednesday": "10:00 am - 10:00 pm",
+        "Thursday": "10:00 am - 10:00 pm",
+        "Friday": "10:00 am - 11:00 pm",
+        "Saturday": "10:00 am - 11:00 pm",
+        "Sunday": "10:00 am - 9:00 pm"
+      },
+      "reviews": [
+        {
+          "name": "Wendy Li",
+          "date": "2023-07-20",
+          "rating": 5,
+          "comments": "Best dim sum in the city!"
+        },
+        {
+          "name": "Xavier Brown",
+          "date": "2023-07-23",
+          "rating": 4,
+          "comments": "Delicious food but long wait times."
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "name": "French Bistro",
+      "neighbourhood": "Midtown",
+      "photographs": "https://i0.wp.com/www.lavenderandlovage.com/wp-content/uploads/2022/04/image001-2.jpg?resize=823%2C1024&ssl=1",
+      "address": "1010 Rue de Paris, Midtown",
+      "latlng": {
+        "lat": 40.764356,
+        "lng": -73.978858
+      },
+      "cuisine_type": "French",
+      "operating_hours": {
+        "Monday": "12:00 pm - 10:00 pm",
+        "Tuesday": "12:00 pm - 10:00 pm",
+        "Wednesday": "12:00 pm - 10:00 pm",
+        "Thursday": "12:00 pm - 10:00 pm",
+        "Friday": "12:00 pm - 11:00 pm",
+        "Saturday": "12:00 pm - 11:00 pm",
+        "Sunday": "12:00 pm - 9:00 pm"
+      },
+      "reviews": [
+        {
+          "name": "Yara Anderson",
+          "date": "2023-06-20",
+          "rating": 5,
+          "comments": "Lovely French cuisine and atmosphere."
+        },
+        {
+          "name": "Zachary White",
+          "date": "2023-06-25",
+          "rating": 4,
+          "comments": "Great food but service could be better."
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "name": "Greek Taverna",
+      "neighbourhood": "West End",
+      "photographs": "https://nourishyou.in/cdn/shop/articles/07-07-2021_1024x.png?v=1702908234",
+      "address": "1111 Olive St, West End",
+      "latlng": {
+        "lat": 40.738776,
+        "lng": -74.000772
+      },
+      "cuisine_type": "Greek",
+      "operating_hours": {
+        "Monday": "11:00 am - 10:00 pm",
+        "Tuesday": "11:00 am - 10:00 pm",
+        "Wednesday": "11:00 am - 10:00 pm",
+        "Thursday": "11:00 am - 10:00 pm",
+        "Friday": "11:00 am - 11:00 pm",
+        "Saturday": "11:00 am - 11:00 pm",
+        "Sunday": "12:00 pm - 9:00 pm"
+      },
+      "reviews": [
+        {
+          "name": "Aaron Blake",
+          "date": "2023-05-20",
+          "rating": 4,
+          "comments": "Delicious Greek food and nice ambiance."
+        },
+        {
+          "name": "Bethany Carter",
+          "date": "2023-05-23",
+          "rating": 5,
+          "comments": "Best Greek restaurant in town!"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "name": "Lebanese Delight",
+      "neighbourhood": "East Side",
+      "photographs": "https://b.zmtcdn.com/data/pictures/chains/1/19614771/22b5f06720cbca6f403a0b2f55cb496e.jpg?w=300&h=200",
+      "address": "1212 Cedar St, East Side",
+      "latlng": {
+        "lat": 40.729600,
+        "lng": -73.982789
+      },
+      "cuisine_type": "Lebanese",
+      "operating_hours": {
+        "Monday": "11:00 am - 10:00 pm",
+        "Tuesday": "11:00 am - 10:00 pm",
+        "Wednesday": "11:00 am - 10:00 pm",
+        "Thursday": "11:00 am - 10:00 pm",
+        "Friday": "11:00 am - 11:00 pm",
+        "Saturday": "11:00 am - 11:00 pm",
+        "Sunday": "12:00 pm - 9:00 pm"
+      },
+      "reviews": [
+        {
+          "name": "Chris Davis",
+          "date": "2023-07-05",
+          "rating": 5,
+          "comments": "Amazing Lebanese food and great service."
+        },
+        {
+          "name": "Danielle Evans",
+          "date": "2023-07-07",
+          "rating": 4,
+          "comments": "Good food but the portions are small."
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "name": "Korean BBQ",
+      "neighbourhood": "Uptown",
+      "photographs": "https://www.seriouseats.com/thmb/Bw1cm1HssvDBh2fMvifyEQtB6ak=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__2019__07__20190619-korean-bbq-vicky-wasik-19-3287ef78b80f43bbb0c4694549bc6edd.jpg?w=300&h=200",
+      "address": "1313 Grill St, Uptown",
+      "latlng": {
+        "lat": 40.760287,
+        "lng": -73.981692
+      },
+      "cuisine_type": "Korean",
+      "operating_hours": {
+        "Monday": "11:30 am - 10:30 pm",
+        "Tuesday": "11:30 am - 10:30 pm",
+        "Wednesday": "11:30 am - 10:30 pm",
+        "Thursday": "11:30 am - 10:30 pm",
+        "Friday": "11:30 am - 11:30 pm",
+        "Saturday": "11:30 am - 11:30 pm",
+        "Sunday": "12:00 pm - 9:30 pm"
+      },
+      "reviews": [
+        {
+          "name": "Edward Foster",
+          "date": "2023-06-20",
+          "rating": 5,
+          "comments": "Best Korean BBQ in the city!"
+        },
+        {
+          "name": "Felicity Hall",
+          "date": "2023-06-23",
+          "rating": 4,
+          "comments": "Great food but a bit pricey."
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "name": "Moroccan Magic",
+      "neighbourhood": "Downtown",
+      "photographs": "https://daanacatering.com.au/cdn/shop/products/shutterstock_1222292680.jpg?v=1629112629",
+      "address": "1414 Spice Blvd, Downtown",
+      "latlng": {
+        "lat": 40.741895,
+        "lng": -73.989308
+      },
+      "cuisine_type": "Moroccan",
+      "operating_hours": {
+        "Monday": "12:00 pm - 10:00 pm",
+        "Tuesday": "12:00 pm - 10:00 pm",
+        "Wednesday": "12:00 pm - 10:00 pm",
+        "Thursday": "12:00 pm - 10:00 pm",
+        "Friday": "12:00 pm - 11:00 pm",
+        "Saturday": "12:00 pm - 11:00 pm",
+        "Sunday": "12:00 pm - 9:00 pm"
+      },
+      "reviews": [
+        {
+          "name": "Grace Johnson",
+          "date": "2023-08-10",
+          "rating": 5,
+          "comments": "Authentic Moroccan cuisine, loved it!"
+        },
+        {
+          "name": "Henry Kim",
+          "date": "2023-08-13",
+          "rating": 4,
+          "comments": "Great food but service could be better."
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "name": "Turkish Delight",
+      "neighbourhood": "Greenwich",
+      "photographs": "https://cdn.shopify.com/s/files/1/0437/8953/files/turkish_delight.png?v=1643330777",
+      "address": "1515 Kebab St, Greenwich",
+      "latlng": {
+        "lat": 40.733321,
+        "lng": -73.987056
+      },
+      "cuisine_type": "Turkish",
+      "operating_hours": {
+        "Monday": "11:00 am - 10:00 pm",
+        "Tuesday": "11:00 am - 10:00 pm",
+        "Wednesday": "11:00 am - 10:00 pm",
+        "Thursday": "11:00 am - 10:00 pm",
+        "Friday": "11:00 am - 11:00 pm",
+        "Saturday": "11:00 am - 11:00 pm",
+        "Sunday": "12:00 pm - 9:00 pm"
+      },
+      "reviews": [
+        {
+          "name": "Ivy Brown",
+          "date": "2023-05-15",
+          "rating": 5,
+          "comments": "Fantastic Turkish food and great atmosphere."
+        },
+        {
+          "name": "Jack Black",
+          "date": "2023-05-18",
+          "rating": 4,
+          "comments": "Good food but the portions are small."
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "name": "Spanish Tapas",
+      "neighbourhood": "Harbor",
+      "photographs": "https://www.goya.com/media/8535/seafood-spanish-tapas-board.jpg?quality=80",
+      "address": "1616 Tapas St, Harbor",
+      "latlng": {
+        "lat": 40.710678,
+        "lng": -74.002582
+      },
+      "cuisine_type": "Spanish",
+      "operating_hours": {
+        "Monday": "12:00 pm - 10:00 pm",
+        "Tuesday": "12:00 pm - 10:00 pm",
+        "Wednesday": "12:00 pm - 10:00 pm",
+        "Thursday": "12:00 pm - 10:00 pm",
+        "Friday": "12:00 pm - 11:00 pm",
+        "Saturday": "12:00 pm - 11:00 pm",
+        "Sunday": "12:00 pm - 9:00 pm"
+      },
+      "reviews": [
+        {
+          "name": "Kelly Adams",
+          "date": "2023-06-05",
+          "rating": 5,
+          "comments": "Best tapas in town!"
+        },
+        {
+          "name": "Liam Nelson",
+          "date": "2023-06-08",
+          "rating": 4,
+          "comments": "Great food but the service was slow."
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "name": "Brazilian Bistro",
+      "neighbourhood": "City Center",
+      "photographs": "https://offloadmedia.feverup.com/secretldn.com/wp-content/uploads/2024/04/16110314/Copy-of-Elis-Nov-2023-Shoot-IMG_1024-3-2-1024x683.jpg",
+      "address": "1717 Brazil Ave, City Center",
+      "latlng": {
+        "lat": 40.725937,
+        "lng": -73.990738
+      },
+      "cuisine_type": "Brazilian",
+      "operating_hours": {
+        "Monday": "12:00 pm - 10:00 pm",
+        "Tuesday": "12:00 pm - 10:00 pm",
+        "Wednesday": "12:00 pm - 10:00 pm",
+        "Thursday": "12:00 pm - 10:00 pm",
+        "Friday": "12:00 pm - 11:00 pm",
+        "Saturday": "12:00 pm - 11:00 pm",
+        "Sunday": "12:00 pm - 9:00 pm"
+      },
+      "reviews": [
+        {
+          "name": "Michael Brown",
+          "date": "2023-07-01",
+          "rating": 5,
+          "comments": "Delicious Brazilian food and friendly staff."
+        },
+        {
+          "name": "Nancy Green",
+          "date": "2023-07-04",
+          "rating": 4,
+          "comments": "Great food but a bit pricey."
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "name": "Russian Delights",
+      "neighbourhood": "West Village",
+      "photographs": "https://i.ytimg.com/vi/5ec0ZO_eft8/maxresdefault.jpg",
+      "address": "1818 Vodka St, West Village",
+      "latlng": {
+        "lat": 40.737417,
+        "lng": -74.001623
+      },
+      "cuisine_type": "Russian",
+      "operating_hours": {
+        "Monday": "11:00 am - 10:00 pm",
+        "Tuesday": "11:00 am - 10:00 pm",
+        "Wednesday": "11:00 am - 10:00 pm",
+        "Thursday": "11:00 am - 10:00 pm",
+        "Friday": "11:00 am - 11:00 pm",
+        "Saturday": "11:00 am - 11:00 pm",
+        "Sunday": "12:00 pm - 9:00 pm"
+      },
+      "reviews": [
+        {
+          "name": "Oscar Brown",
+          "date": "2023-08-01",
+          "rating": 5,
+          "comments": "Authentic Russian food, loved it!"
+        },
+        {
+          "name": "Patricia Blue",
+          "date": "2023-08-04",
+          "rating": 4,
+          "comments": "Great food but service could be better."
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "name": "German Beer Hall",
+      "neighbourhood": "Suburbia",
+      "photographs": "https://cdn.vox-cdn.com/thumbor/qherDvBRtBBiNxL65iJTSE4PqDI=/1400x1400/filters:format(jpeg)/cdn.vox-cdn.com/uploads/chorus_asset/file/19135954/MINH7716.jpg",
+      "address": "1919 Beer St, Suburbia",
+      "latlng": {
+        "lat": 40.749561,
+        "lng": -73.987773
+      },
+      "cuisine_type": "German",
+      "operating_hours": {
+        "Monday": "11:00 am - 10:00 pm",
+        "Tuesday": "11:00 am - 10:00 pm",
+        "Wednesday": "11:00 am - 10:00 pm",
+        "Thursday": "11:00 am - 10:00 pm",
+        "Friday": "11:00 am - 11:00 pm",
+        "Saturday": "11:00 am - 11:00 pm",
+        "Sunday": "12:00 pm - 9:00 pm"
+      },
+      "reviews": [
+        {
+          "name": "Quentin Gray",
+          "date": "2023-05-15",
+          "rating": 5,
+          "comments": "Best German beer and food in town."
+        },
+        {
+          "name": "Rachel Silver",
+          "date": "2023-05-18",
+          "rating": 4,
+          "comments": "Great food but the portions are small."
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "name": "Mexican Fiesta",
+      "neighbourhood": "Downtown",
+      "photographs": "https://www.hotforfoodblog.com/wp-content/uploads/2021/06/mexican-fiesta-board_hot-for-food_filtered1.jpg",
+      "address": "2020 Fiesta Ave, Downtown",
+      "latlng": {
+        "lat": 40.742235,
+        "lng": -73.989673
+      },
+      "cuisine_type": "Mexican",
+      "operating_hours": {
+        "Monday": "11:00 am - 10:00 pm",
+        "Tuesday": "11:00 am - 10:00 pm",
+        "Wednesday": "11:00 am - 10:00 pm",
+        "Thursday": "11:00 am - 10:00 pm",
+        "Friday": "11:00 am - 11:00 pm",
+        "Saturday": "11:00 am - 11:00 pm",
+        "Sunday": "12:00 pm - 9:00 pm"
+      },
+      "reviews": [
+        {
+          "name": "Samantha Black",
+          "date": "2023-07-10",
+          "rating": 5,
+          "comments": "Best Mexican food in the area!"
+        },
+        {
+          "name": "Timothy White",
+          "date": "2023-07-12",
+          "rating": 4,
+          "comments": "Great food but service was slow."
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "name": "Italian Pizzeria",
+      "neighbourhood": "Old Town",
+      "photographs": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Pizza-3007395.jpg/800px-Pizza-3007395.jpg",
+      "address": "2121 Pizza St, Old Town",
+      "latlng": {
+        "lat": 40.735956,
+        "lng": -73.995782
+      },
+      "cuisine_type": "Italian",
+      "operating_hours": {
+        "Monday": "11:00 am - 10:00 pm",
+        "Tuesday": "11:00 am - 10:00 pm",
+        "Wednesday": "11:00 am - 10:00 pm",
+        "Thursday": "11:00 am - 10:00 pm",
+        "Friday": "11:00 am - 11:00 pm",
+        "Saturday": "11:00 am - 11:00 pm",
+        "Sunday": "12:00 pm - 9:00 pm"
+      },
+      "reviews": [
+        {
+          "name": "Uma Patel",
+          "date": "2023-06-15",
+          "rating": 5,
+          "comments": "Delicious pizzas and great ambiance."
+        },
+        {
+          "name": "Victor Hugo",
+          "date": "2023-06-18",
+          "rating": 4,
+          "comments": "Great pizza but a bit crowded."
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "name": "Indian Spice",
+      "neighbourhood": "Midtown",
+      "photographs": "https://cdn.shopify.com/s/files/1/0524/2113/2440/files/indian_spices_in_foods_91510530-a1b2-42d5-a87d-ba20c7533126.jpg?v=1666789171",
+      "address": "2222 Curry St, Midtown",
+      "latlng": {
+        "lat": 40.749621,
+        "lng": -73.987761
+      },
+      "cuisine_type": "Indian",
+      "operating_hours": {
+        "Monday": "11:00 am - 10:00 pm",
+        "Tuesday": "11:00 am - 10:00 pm",
+        "Wednesday": "11:00 am - 10:00 pm",
+        "Thursday": "11:00 am - 10:00 pm",
+        "Friday": "11:00 am - 11:00 pm",
+        "Saturday": "11:00 am - 11:00 pm",
+        "Sunday": "12:00 pm - 9:00 pm"
+      },
+      "reviews": [
+        {
+          "name": "Wendy Li",
+          "date": "2023-07-20",
+          "rating": 5,
+          "comments": "Authentic Indian cuisine, highly recommend!"
+        },
+        {
+          "name": "Xavier Brown",
+          "date": "2023-07-23",
+          "rating": 4,
+          "comments": "Great food but long wait times."
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "name": "Southern Comfort",
+      "neighbourhood": "Harbor",
+      "photographs": "https://www.sidechef.com/article/85081d00-5171-4661-a4e4-03bb9a9eefdf.jpg?d=1408x1120",
+      "address": "2323 Comfort St, Harbor",
+      "latlng": {
+        "lat": 40.712678,
+        "lng": -74.006782
+      },
+      "cuisine_type": "Southern",
+      "operating_hours": {
+        "Monday": "12:00 pm - 10:00 pm",
+        "Tuesday": "12:00 pm - 10:00 pm",
+        "Wednesday": "12:00 pm - 10:00 pm",
+        "Thursday": "12:00 pm - 10:00 pm",
+        "Friday": "12:00 pm - 11:00 pm",
+        "Saturday": "12:00 pm - 11:00 pm",
+        "Sunday": "12:00 pm - 9:00 pm"
+      },
+      "reviews": [
+        {
+          "name": "Yara Anderson",
+          "date": "2023-06-20",
+          "rating": 5,
+          "comments": "Best Southern food in town!"
+        },
+        {
+          "name": "Zachary White",
+          "date": "2023-06-25",
+          "rating": 4,
+          "comments": "Great food but service could be better."
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "name": "Vietnamese Pho",
+      "neighbourhood": "Chinatown",
+      "photographs": "https://images.squarespace-cdn.com/content/v1/52d3fafee4b03c7eaedee15f/11cd4cd9-9a5e-426f-a91a-f64bdf84812f/2023_06_09EOS+M506018.jpg",
+      "address": "2424 Pho St, Chinatown",
+      "latlng": {
+        "lat": 40.719456,
+        "lng": -73.995672
+      },
+      "cuisine_type": "Vietnamese",
+      "operating_hours": {
+        "Monday": "11:00 am - 10:00 pm",
+        "Tuesday": "11:00 am - 10:00 pm",
+        "Wednesday": "11:00 am - 10:00 pm",
+        "Thursday": "11:00 am - 10:00 pm",
+        "Friday": "11:00 am - 11:00 pm",
+        "Saturday": "11:00 am - 11:00 pm",
+        "Sunday": "12:00 pm - 9:00 pm"
+      },
+      "reviews": [
+        {
+          "name": "Aaron Blake",
+          "date": "2023-05-20",
+          "rating": 4,
+          "comments": "Delicious pho and friendly staff."
+        },
+        {
+          "name": "Bethany Carter",
+          "date": "2023-05-23",
+          "rating": 5,
+          "comments": "Best Vietnamese restaurant in town!"
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "name": "Sushi Heaven",
+      "neighbourhood": "Little Tokyo",
+      "photographs": "https://tb-static.uber.com/prod/image-proc/processed_images/f6690d9b1a27a72ff39f642a50a04ad1/aa13fff7e2466014ca51307be81e7738.jpeg",
+      "address": "2525 Sushi St, Little Tokyo",
+      "latlng": {
+        "lat": 40.713123,
+        "lng": -73.991112
+      },
+      "cuisine_type": "Japanese",
+      "operating_hours": {
+        "Monday": "11:00 am - 10:00 pm",
+        "Tuesday": "11:00 am - 10:00 pm",
+        "Wednesday": "11:00 am - 10:00 pm",
+        "Thursday": "11:00 am - 10:00 pm",
+        "Friday": "11:00 am - 11:00 pm",
+        "Saturday": "11:00 am - 11:00 pm",
+        "Sunday": "12:00 pm - 9:00 pm"
+      },
+      "reviews": [
+        {
+          "name": "Chris Davis",
+          "date": "2023-07-05",
+          "rating": 5,
+          "comments": "Best sushi in the city!"
+        },
+        {
+          "name": "Danielle Evans",
+          "date": "2023-07-07",
+          "rating": 4,
+          "comments": "Great sushi but expensive."
+        }
+      ]
+    }
+  ]
+}
+   
+
+    
